@@ -1,0 +1,5 @@
+# Created at 2024-10-12T15:55:21.306
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Max Speicher\Bildung\Hochschule für Technik - Medieninformatik Online (Master)\4. Semester\Patterns and Frameworks\luftfederung\luftfederung\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
